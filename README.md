@@ -21,23 +21,9 @@
 
 ---
 
-```bash
-┌──[cxern@null]─[~]
-└─$ whoami
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=800&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=120&lines=%24+cat+%2Fetc%2Fcxern;+handle++++%3A%3A++cxern+%7C+uid+%3A%3A+2305271;+location+++%3A%3A++%2Fdev%2Fnull+%E2%86%92+delusional;+focus++++++%3A%3A++reverse+engineering+%2F+systems+%2F+web" alt="whoami" />
 
-  ╔══════════════════════════════════════════════════╗
-  ║  handle   ::  cxern                             ║
-  ║  uid      ::  2305271                           ║
-  ║  loc      ::  /dev/null  →  delusional          ║
-  ║  focus    ::  reverse engineering               ║
-  ║             ↳ low-level systems                 ║
-  ║             ↳ web backends                      ║
-  ║  threat   ::  ████████████░░  [mostly harmless] ║
-  ╚══════════════════════════════════════════════════╝
-
-┌──[cxern@null]─[~]
-└─$ _
-```
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&lines=threat+level+%3A%3A+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91+%5B+mostly+harmless+%5D;status++++++%3A%3A+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91+%5B+90%25+cooked+%5D;availability+%3A%3A+open+to+%2Fdev%2Frandom+collabs" alt="status" />
 
 ---
 
