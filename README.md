@@ -21,16 +21,22 @@
 
 ---
 
-### `whoami`
-
 ```bash
-$ cat /etc/cxern
+┌──[cxern@null]─[~]
+└─$ whoami
 
-  handle   →  cxern
-  id       →  2305271
-  location →  delusional
-  focus    →  reverse engineering · low-level systems · web backends
-  status   →  [ █████████░ ] 90% cooked
+  ╔══════════════════════════════════════════════════╗
+  ║  handle   ::  cxern                             ║
+  ║  uid      ::  2305271                           ║
+  ║  loc      ::  /dev/null  →  delusional          ║
+  ║  focus    ::  reverse engineering               ║
+  ║             ↳ low-level systems                 ║
+  ║             ↳ web backends                      ║
+  ║  threat   ::  ████████████░░  [mostly harmless] ║
+  ╚══════════════════════════════════════════════════╝
+
+┌──[cxern@null]─[~]
+└─$ _
 ```
 
 ---
