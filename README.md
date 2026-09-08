@@ -6,14 +6,7 @@
 
 <br/>
 
-```
- ██████╗██╗  ██╗███████╗██████╗ ███╗   ██╗
-██╔════╝╚██╗██╔╝██╔════╝██╔══██╗████╗  ██║
-██║      ╚███╔╝ █████╗  ██████╔╝██╔██╗ ██║
-██║      ██╔██╗ ██╔══╝  ██╔══██╗██║╚██╗██║
-╚██████╗██╔╝ ██╗███████╗██║  ██║██║ ╚████║
- ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
+<img src="banner.svg" alt="cxern" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=reverse+engineering+reality+%2F%2F;dissecting+binaries+since+2305271;delusional+%5B+but+functional+%5D" alt="typing" />
 
@@ -21,7 +14,7 @@
 
 ---
 
-<img src="terminal.svg" alt="whoami terminal" />
+<img src="terminal.svg" alt="terminal" />
 
 ---
 
