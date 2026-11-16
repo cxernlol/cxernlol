@@ -19,7 +19,7 @@ I write **Rust** and **Tauri** because I refuse to let an application built on t
 
 ### 🛠️ My Stack
 
-*   **Languages:** Rust 🦀 (currently locked in a tense psychological warfare with the borrow checker), TypeScript, Python.
+*   **Languages:** Rust, TypeScript, Python.
 *   **Architecture:** Native desktop applications because local-first software shouldn't require a cloud handshake or an active internet connection.
 *   **Philosophy:** Zero telemetry, zero bloat, zero background daemons eating my CPU cycles.
 
