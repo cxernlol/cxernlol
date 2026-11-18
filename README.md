@@ -28,7 +28,7 @@ I write **Rust** and **Tauri** because I refuse to let an application built on t
 ### 🎯 Core Beliefs
 
 *   **Electron is a crime against hardware.** If a text editor takes longer to boot than my entire operating system, it's broken.
-*   **Subscriptions for local tools are a scam.** If I own the hardware, I own the software running on it. Period.
+*   **Subscriptions for local tools are a scam.** If I own the hardware, I own the software running on it.
 *   **Open source or bust.** If I can't audit the source code, compile it myself, and strip out the tracking pixels, I don't trust it.
 *   **"It worked on my machine"** isn't a joke; it's a structural failure of environment management.
 
