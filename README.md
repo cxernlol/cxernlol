@@ -64,7 +64,7 @@ If you like my work and want to support me, you can [sponsor me on GitHub 💖](
 <p align="center">
   <a href="https://x.com/mrshimn" target="_blank">@mrshimn</a> ·
   <a href="https://www.threads.com/@w21yo" target="_blank">@w21yo</a> ·
-  <a href="https://www.instagram.com/arcashimn/" target="_blank">@arcashimn</a>
+  <a href="[https://www.instagram.com/arcashimn/](https://www.instagram.com/ryv.nq/)" target="_blank">@Ryv.nq</a>
 </p>
 
 ### My toolbox
