@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://ctdstudio.dev/" target="_blank"><img alt="ctdstudio.dev" src="https://img.shields.io/badge/ctdstudio.dev-6366f1?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></a>
-  <a href="https://usetroupe.dev/" target="_blank"><img alt="usetroupe.dev" src="https://img.shields.io/badge/usetroupe.dev-0ea5e9?style=for-the-badge&logo=gnometerminal&logoColor=white" /></a>
   <a href="https://x.com/mrshimn" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.threads.com/@w21yo" target="_blank"><img alt="Threads" src="https://img.shields.io/badge/Threads-000?style=for-the-badge&logo=threads&logoColor=white" /></a>
   <a href="https://www.instagram.com/arcashimn/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
