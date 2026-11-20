@@ -1,4 +1,4 @@
-## Hi there, I'm shimn 👋
+## Hi there, I'm Ryv 👋
 
 <p align="center">
   <a href="https://ctdstudio.dev/" target="_blank"><img alt="ctdstudio.dev" src="https://img.shields.io/badge/ctdstudio.dev-6366f1?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></a>
